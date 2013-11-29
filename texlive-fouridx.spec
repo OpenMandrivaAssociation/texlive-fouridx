@@ -1,12 +1,12 @@
-# revision 15878
+# revision 32214
 # category Package
 # catalog-ctan /macros/latex/contrib/fouridx
-# catalog-date 2008-08-19 20:38:14 +0200
+# catalog-date 2013-11-21 22:41:55 +0100
 # catalog-license lppl
-# catalog-version 1.00
+# catalog-version 2.00
 Name:		texlive-fouridx
-Version:	1.00
-Release:	2
+Version:	2.00
+Release:	1
 Summary:	Left sub- and superscripts in maths mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fouridx
@@ -53,17 +53,3 @@ command in the amsmath package.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
-
-
-%changelog
-* Wed Jan 04 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.00-2
-+ Revision: 752086
-- Rebuild to reduce used resources
-
-* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 1.00-1
-+ Revision: 718496
-- texlive-fouridx
-- texlive-fouridx
-- texlive-fouridx
-- texlive-fouridx
-
