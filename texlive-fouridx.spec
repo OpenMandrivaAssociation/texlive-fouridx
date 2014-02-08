@@ -6,7 +6,7 @@
 # catalog-version 1.00
 Name:		texlive-fouridx
 Version:	1.00
-Release:	2
+Release:	3
 Summary:	Left sub- and superscripts in maths mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fouridx
