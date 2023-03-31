@@ -1,6 +1,6 @@
 Name:		texlive-fouridx
 Version:	32214
-Release:	1
+Release:	2
 Summary:	Left sub- and superscripts in maths mode
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/fouridx
